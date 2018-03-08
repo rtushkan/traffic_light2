@@ -5,7 +5,7 @@ public class Main {
         TrafficLight trafficLight = new TrafficLight();
         trafficLight.setStandard();
         trafficLight.getResult();
-        TrafficLight trafficLight1 = new TrafficLight();
+
 
 
 
